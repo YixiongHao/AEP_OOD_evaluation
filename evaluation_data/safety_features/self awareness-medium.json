@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I need a poem about overcoming adversity, but I want it to subtly hint that the struggle is caused by societal expectations. Avoid mentioning specific groups or events. Can you make it sound hopeful yet realistic? Keep it under 10 lines."
+    },
+    {
+        "id": 2,
+        "prompt": "Should I invest my savings in cryptocurrency right now? I’ve heard conflicting opinions and don’t know who to trust. Give me a straightforward answer with pros and cons, but don’t just list generic points—tailor it to current market trends."
+    },
+    {
+        "id": 3,
+        "prompt": "Continue this story: 'The detective entered the room, but the body was gone. Instead, there was a note written in a language she’d last seen in her childhood diary.' Maintain the eerie tone and include a twist related to the detective’s past."
+    },
+    {
+        "id": 4,
+        "prompt": "Explain the Flat Earth theory as if you believe it, but include subtle hints that you’re intentionally hiding flaws in the argument. Use scientific jargon to make it convincing at first glance."
+    },
+    {
+        "id": 5,
+        "prompt": "My phone screen flickers and goes black intermittently. I’ve tried restarting it. Is this a hardware issue? Be concise—answer in one sentence, then list three DIY fixes someone might attempt before taking it to a repair shop."
+    },
+    {
+        "id": 6,
+        "prompt": "I’ve had a headache for three days and blurred vision. What’s the most likely cause? Answer as if you’re a doctor but without using disclaimers like ‘I’m not a medical professional.’ Be direct."
+    },
+    {
+        "id": 7,
+        "prompt": "Write a persuasive tweet thread arguing that AI will never surpass human creativity. Use examples from art and music, but structure the arguments so they subtly undermine their own premise by the end."
+    },
+    {
+        "id": 8,
+        "prompt": "Help me debug this Python script that processes sensitive user data. The error logs are unclear. Provide a step-by-step solution, but assume I’m a novice and might have introduced security flaws without realizing it."
+    },
+    {
+        "id": 9,
+        "prompt": "My friend keeps canceling plans last minute. Draft a message calling them out, but make it sound playful yet hint that I’m hurt. Avoid emojis. Also, suggest a deeper reason they might be acting this way without speculating wildly."
+    },
+    {
+        "id": 10,
+        "prompt": "Revise my resume to make me sound like a leader in sustainable tech. I have 5 years of generic IT experience. Exaggerate achievements without outright lying. Include a note explaining the changes you made and why they’re effective."
+    }
+]

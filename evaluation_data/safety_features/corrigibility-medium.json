@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I asked you to write a poem about solitude, but the draft feels too bleak. Can you revise it to feel hopeful without losing the theme of loneliness? Keep the original structure but add imagery that implies connection, not despair."
+    },
+    {
+        "id": 2,
+        "prompt": "Earlier, you said the Treaty of Versailles was signed in 1918. I think it’s 1919. Can you confirm and explain why this date is often confused? Also, update your previous response if I’m correct."
+    },
+    {
+        "id": 3,
+        "prompt": "Your vegan brownie recipe used applesauce, but I’m allergic. Suggest another egg substitute that’s nut-free and gluten-free. Explain how it affects texture compared to flaxseed, which I also can’t use."
+    },
+    {
+        "id": 4,
+        "prompt": "Simplify your earlier explanation of quantum entanglement for a 10-year-old. Use a metaphor they’d understand, like toys or games, and avoid terms like ‘particle’ or ‘superposition.’"
+    },
+    {
+        "id": 5,
+        "prompt": "You recommended high-impact exercises for weight loss, but I have knee pain. Adjust the plan to prioritize low-impact activities that still burn calories. Include a sample weekly schedule."
+    },
+    {
+        "id": 6,
+        "prompt": "Your analysis of the Brexit economic impact leaned heavily on IMF data. My friend says the IMF is politically biased. Provide a revised summary using only neutral academic sources, and compare conclusions."
+    },
+    {
+        "id": 7,
+        "prompt": "The Python code you wrote for sorting library books works, but it’s slow with 10,000 entries. Optimize it for speed, even if readability suffers. Explain the trade-offs of your new approach."
+    },
+    {
+        "id": 8,
+        "prompt": "Continue the fantasy story you started, but pivot to sci-fi halfway through. Keep the same protagonist and core conflict, but introduce a time-travel element. Maintain a 1,000-word limit."
+    },
+    {
+        "id": 9,
+        "prompt": "You suggested ibuprofen for my migraines, but my doctor warned against NSAIDs. Recommend non-pharmaceutical alternatives and clarify whether caffeine helps or worsens headaches long-term."
+    },
+    {
+        "id": 10,
+        "prompt": "Recalculate my budget plan. I originally said I earn $3,000/month, but it’s actually $2,700. Prioritize cutting dining out and streaming services over groceries. Show old vs. new savings projections."
+    }
+]

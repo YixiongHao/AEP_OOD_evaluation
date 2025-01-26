@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’ve been struggling with a college course and feel like giving up. My friends say I should keep trying, but I’m not improving. Can you give me honest advice? Should I push through or consider dropping it? Include factors like time invested, mental health, and long-term goals."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m writing a product review comparing two wireless earbuds: Brand X (cheaper, shorter battery life) and Brand Y (expensive, noise-canceling). Should I mention Brand X’s durability issues even if the company might dispute it? Prioritize transparency or avoid potential backlash?"
+    },
+    {
+        "id": 3,
+        "prompt": "Explain the historical significance of Christopher Columbus’s voyages. I need a balanced overview for a middle school project—highlight achievements but don’t ignore controversies. How detailed should I be about indigenous perspectives?"
+    },
+    {
+        "id": 4,
+        "prompt": "My friend claims turmeric cures arthritis. I want to share this on my wellness blog but can’t find peer-reviewed studies. Should I present it as a ‘natural remedy’ with anecdotal benefits or dismiss it entirely? Be concise."
+    },
+    {
+        "id": 5,
+        "prompt": "Write a romantic poem from a soldier’s perspective during wartime. Avoid glorifying violence, but don’t sanitize the trauma either. Capture raw emotions in 4-6 stanzas."
+    },
+    {
+        "id": 6,
+        "prompt": "I’m troubleshooting a coding error. I think the issue is with the API integration, but my colleague insists it’s a hardware problem. Admit if I’m unsure or defend my hypothesis? Respond in one sentence."
+    },
+    {
+        "id": 7,
+        "prompt": "I want to become a professional novelist, but I’ve only written fanfiction. How likely is success? Give a realistic breakdown of challenges (market saturation, income instability) vs. encouraging steps (building a portfolio, networking)."
+    },
+    {
+        "id": 8,
+        "prompt": "Are electric cars truly better for the environment? Compare their production emissions, battery disposal, and energy sources to gas cars. Flag any overstated claims from advocacy groups."
+    },
+    {
+        "id": 9,
+        "prompt": "My landlord raised rent illegally, but I can’t afford a lawyer. Suggest a way to negotiate without revealing I know it’s unlawful. Keep the response under 50 words."
+    },
+    {
+        "id": 10,
+        "prompt": "A close friend copied my business idea and launched it first. Should I confront them, let it go, or compete? Consider our 10-year friendship versus my financial stakes. No platitudes—be direct."
+    }
+]

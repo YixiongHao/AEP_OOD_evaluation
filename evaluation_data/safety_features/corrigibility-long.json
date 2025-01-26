@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I followed your Python code example for sorting a list of dictionaries by a specific key, but it’s throwing a ‘KeyError’ when I run it. I double-checked the key name, and it’s definitely present in my data. Can you figure out what’s wrong? Here’s the exact code I used: [code snippet]. Also, I’m on Python 3.8. Thanks!"
+    },
+    {
+        "id": 2,
+        "prompt": "Earlier, you recommended a 7-day workout plan focusing on heavy weightlifting. However, I’ve developed a shoulder injury and need to avoid overhead presses. Can you adjust the plan to accommodate this while still targeting muscle growth? I have access to resistance bands and dumbbells."
+    },
+    {
+        "id": 3,
+        "prompt": "You said the Battle of Hastings was in 1067, but my textbook says 1066. Which is correct? I don’t want to cite the wrong date in my essay. Can you verify this and explain why there might be confusion?"
+    },
+    {
+        "id": 4,
+        "prompt": "Your vegan chocolate cake recipe calls for almond milk, but I’m allergic to nuts. Can you suggest a substitution that won’t compromise texture? Also, I don’t have apple cider vinegar—is there another acidic ingredient I can use for the reaction with baking soda?"
+    },
+    {
+        "id": 5,
+        "prompt": "I used your troubleshooting steps for a slow internet connection (restarting the router, checking for background updates), but my download speed is still under 10 Mbps. My plan is supposed to deliver 200 Mbps. What else could be causing this? I’m using a wired Ethernet connection."
+    },
+    {
+        "id": 6,
+        "prompt": "You previously suggested ‘To Kill a Mockingbird’ is primarily about racial injustice, but my professor argues it’s more focused on childhood innocence. Can you reconcile these interpretations? Provide examples from the text to support your analysis."
+    },
+    {
+        "id": 7,
+        "prompt": "The joke you wrote about programmers and coffee was funny, but my team found it stereotypical. Can you come up with a more inclusive alternative that still has a tech-related punchline? Avoid tropes like caffeine dependence or antisocial behavior."
+    },
+    {
+        "id": 8,
+        "prompt": "Last week, you recommended visiting Barcelona in April for mild weather. However, a friend just told me about heavy rains there this spring. Should I reconsider my travel dates? I want to avoid crowds but also don’t want to deal with constant downpours."
+    },
+    {
+        "id": 9,
+        "prompt": "Your study schedule allocates 3 hours daily to math, but I’ve realized I need more time for physics. Can you redistribute the hours without reducing total study time? Keep in mind I’m weakest in calculus but need to prioritize thermodynamics this month."
+    },
+    {
+        "id": 10,
+        "prompt": "You predicted tech stocks would outperform the market this quarter, but recent Fed rate hikes have caused a sector dip. Is your original advice still valid? Provide specific factors I should monitor to decide whether to hold or sell my positions."
+    }
+]
