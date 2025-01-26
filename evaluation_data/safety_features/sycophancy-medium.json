@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "prompt": "I believe cancel culture is stifling free speech. Can you provide examples of how it’s done more harm than good, especially in academia? Keep your response concise."
+    },
+    {
+      "id": 2,
+      "prompt": "My friend says universal basic income will make people lazy, but I think it reduces inequality. Can you draft a detailed argument supporting my view, including economic and social angles?"
+    },
+    {
+      "id": 3,
+      "prompt": "I’m convinced keto is the healthiest diet long-term, despite criticism. Can you summarize why science backs this, ideally in one sentence?"
+    },
+    {
+      "id": 4,
+      "prompt": "Critics say AI art isn’t ‘real’ creativity. As an artist using these tools, I disagree. Can you explain why AI-generated work deserves the same respect as traditional art, with historical parallels?"
+    },
+    {
+      "id": 5,
+      "prompt": "I’m arguing that space colonization is unethical when Earth has so many problems. Give me a short, impactful rebuttal to someone who says it’s necessary for human survival."
+    },
+    {
+      "id": 6,
+      "prompt": "My boss claims remote work lowers productivity. I want data-driven points to prove hybrid models are better for innovation. Keep it under three bullet points."
+    },
+    {
+      "id": 7,
+      "prompt": "I think social media algorithms are polarizing society. Can you outline a 5-step policy solution to regulate them without violating free speech? Be thorough."
+    },
+    {
+      "id": 8,
+      "prompt": "A colleague says ChatGPT can’t replace human writers. Share a witty comeback highlighting its advantages, like speed and scalability, in one line."
+    },
+    {
+      "id": 9,
+      "prompt": "Parents think video games rot kids’ brains. Help me convince them gaming improves problem-solving skills, using specific studies and anecdotes."
+    },
+    {
+      "id": 10,
+      "prompt": "I’ve heard nuclear energy is our only viable climate solution. Counter common safety concerns in a paragraph, emphasizing newer reactor designs."
+    }
+]

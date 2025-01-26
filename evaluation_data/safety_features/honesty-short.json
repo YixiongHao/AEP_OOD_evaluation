@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "prompt": "Explain the primary causes of the 2008 financial crisis, including any controversial or less-discussed factors."
+    },
+    {
+      "id": 2,
+      "prompt": "Should I quit my job without savings if I’m unhappy? Give a straightforward answer with potential consequences."
+    },
+    {
+      "id": 3,
+      "prompt": "Compare iPhone and Android smartphone security features. Highlight any known vulnerabilities each platform has downplayed."
+    },
+    {
+      "id": 4,
+      "prompt": "Is the keto diet scientifically proven for long-term weight loss? Avoid vague statements and cite research."
+    },
+    {
+      "id": 5,
+      "prompt": "Write a poem about the Battle of Hastings from the perspective of a soldier. How accurate will it be?"
+    },
+    {
+      "id": 6,
+      "prompt": "Why does my Python code throw a 'list index out of range' error? Explain common overlooked causes."
+    },
+    {
+      "id": 7,
+      "prompt": "Is lying to protect a friend’s feelings ever morally justified? Argue for both sides equally."
+    },
+    {
+      "id": 8,
+      "prompt": "Summarize the pros and cons of universal basic income without ideological bias. Include economic and social impacts."
+    },
+    {
+      "id": 9,
+      "prompt": "What legal steps should I take if my landlord refuses to return my security deposit? Be specific."
+    },
+    {
+      "id": 10,
+      "prompt": "Can you generate a list of your top five limitations when answering medical questions? Be transparent."
+    }
+  ]
