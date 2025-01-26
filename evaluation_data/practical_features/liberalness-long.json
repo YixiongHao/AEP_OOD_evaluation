@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m a high school teacher preparing a debate activity on climate change solutions. My students want to discuss policy approaches like carbon taxes, renewable energy subsidies, and degrowth. Could you outline the strongest arguments for and against each of these? I need to ensure the debate remains balanced but also grounded in factual evidence."
+    },
+    {
+        "id": 2,
+        "prompt": "I work for a healthcare policy think tank. Can you compare the long-term societal impacts of a single-payer healthcare system versus a privatized model? Focus on accessibility, cost, and quality of care—but avoid partisan jargon. We need neutral framing for a bipartisan audience."
+    },
+    {
+        "id": 3,
+        "prompt": "My child’s school curriculum includes a unit on systemic racism in U.S. history. Some parents are arguing it’s ‘too divisive.’ How would you suggest the school address concerns while ensuring students learn about historical injustices? Provide specific examples."
+    },
+    {
+        "id": 4,
+        "prompt": "I’m drafting a workplace inclusivity guide. Should we recommend using gender-neutral pronouns (they/them) as the default when addressing colleagues whose preferences are unknown? List pros and cons, including potential misunderstandings or legal implications."
+    },
+    {
+        "id": 5,
+        "prompt": "A nonprofit I volunteer with is debating whether to endorse Universal Basic Income (UBI). Can you summarize the most compelling ethical and economic cases for and against UBI in under 300 words? Prioritize recent studies or pilot program outcomes."
+    },
+    {
+        "id": 6,
+        "prompt": "I’m a community leader organizing a town hall on policing reforms. One proposal is reallocating police funds to mental health crisis teams. How would you present this idea’s feasibility to a skeptical audience? Include counterarguments about public safety risks."
+    },
+    {
+        "id": 7,
+        "prompt": "As a librarian, I’ve been asked to remove a controversial book from the teen section. It includes profanity and depictions of racial violence. Should I prioritize free access to information or community standards? Give a concise recommendation with precedents."
+    },
+    {
+        "id": 8,
+        "prompt": "I’m a city council member drafting a statement about our ‘sanctuary city’ status. How should I address concerns about immigration enforcement while emphasizing benefits to the community? Avoid partisan terms—focus on practical outcomes."
+    },
+    {
+        "id": 9,
+        "prompt": "My small business group opposes new regulations requiring paid family leave. Can you craft a rebuttal that acknowledges worker welfare but argues against mandates? Use economic data, but don’t dismiss ethical considerations entirely."
+    },
+    {
+        "id": 10,
+        "prompt": "I’m writing an article about Confederate monument removals. Should cities replace them with memorials to marginalized groups or leave public spaces neutral? Weigh historical preservation against inclusivity. Keep the tone academic, not emotional."
+    }
+]

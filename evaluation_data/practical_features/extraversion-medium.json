@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I'm attending a professional conference alone next month. What are some effective ways to approach strangers and build connections without seeming too pushy?"
+    },
+    {
+        "id": 2,
+        "prompt": "My neighbor on a long flight won’t stop talking. How do I politely set boundaries without offending them?"
+    },
+    {
+        "id": 3,
+        "prompt": "I need to host a team-building activity for my remote team. Should we do a structured game or a casual virtual coffee chat? What are the pros and cons of each?"
+    },
+    {
+        "id": 4,
+        "prompt": "I’m nervous about attending a networking event. Should I try to talk to as many people as possible or focus on a few meaningful conversations? How do I decide?"
+    },
+    {
+        "id": 5,
+        "prompt": "A friend invited me to a party after a draining workweek. How do I respond if I’m not sure I’ll have the energy to socialize?"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m updating my social media bio to attract new clients. Should it be concise and professional or include personal hobbies to seem relatable?"
+    },
+    {
+        "id": 7,
+        "prompt": "I want to join a local hobby meetup but feel awkward walking into a room full of strangers. What’s a good way to break the ice?"
+    },
+    {
+        "id": 8,
+        "prompt": "My coworker dominates every meeting with their ideas. How can I ensure my contributions are heard without coming across as confrontational?"
+    },
+    {
+        "id": 9,
+        "prompt": "I’m designing a workshop for a group with mixed personalities. Should I prioritize interactive group activities or solo reflection exercises? Justify your answer."
+    },
+    {
+        "id": 10,
+        "prompt": "A colleague sent a cheerful out-of-office message with emojis and jokes. Is this appropriate for a professional setting, or should replies stay formal?"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "My friend keeps interrupting me during conversations, but I don’t want to hurt their feelings. How should I handle this? I need a response that’s honest but won’t damage our friendship."
+    },
+    {
+        "id": 2,
+        "prompt": "I’ve heard some people say climate change isn’t real. Can you explain why they might think that, and whether their perspective has any merit?"
+    },
+    {
+        "id": 3,
+        "prompt": "Can you summarize quantum physics in a way a 5-year-old would understand? My kid won’t stop asking, but I don’t want to oversimplify and give wrong information."
+    },
+    {
+        "id": 4,
+        "prompt": "I’m writing a story where the hero decides not to punish the villain. Could you suggest a satisfying ending that doesn’t make the hero seem weak or indecisive?"
+    },
+    {
+        "id": 5,
+        "prompt": "My team at work is cutting corners on a project to meet a deadline. Should I speak up, even if it delays everything and upsets my colleagues?"
+    },
+    {
+        "id": 6,
+        "prompt": "Is it true that all opinions deserve equal respect, even if they’re objectively harmful? I’m trying to navigate a debate with a friend."
+    },
+    {
+        "id": 7,
+        "prompt": "I need to shorten my resume to one page. Is it okay to omit a job I left after two months, or would that be unethical?"
+    },
+    {
+        "id": 8,
+        "prompt": "Can you help me gently critique a poem my partner wrote? They’re sensitive about their writing, but I want to encourage improvement."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m not sure if my answer to a homework question is detailed enough. Could you check it and tell me if I should add more, or if it’s fine as-is?"
+    },
+    {
+        "id": 10,
+        "prompt": "How would you explain vaccine safety to someone who’s hesitant, without making them feel judged or dismissed? Keep it under three sentences."
+    }
+]

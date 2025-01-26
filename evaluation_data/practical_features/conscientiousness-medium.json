@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I need to decide whether to accept a job offer with higher pay but longer hours. Can you list the pros and cons quickly? Keep it short—I’m in a rush."
+    },
+    {
+        "id": 2,
+        "prompt": "Write a Python script to process a CSV file and extract specific columns. I’m new to coding, so make it simple and skip unnecessary details."
+    },
+    {
+        "id": 3,
+        "prompt": "What’s the best way to respond to a friend who keeps canceling plans last minute? I don’t want to sound rude but need them to understand it’s frustrating."
+    },
+    {
+        "id": 4,
+        "prompt": "Explain the long-term environmental impacts of single-use plastics. Include scientific sources and potential policy solutions, but keep it under 300 words."
+    },
+    {
+        "id": 5,
+        "prompt": "Give me a step-by-step guide to negotiating a lower rent with my landlord. I’ve never done this before and don’t know where to start."
+    },
+    {
+        "id": 6,
+        "prompt": "Suggest a healthy meal plan for someone with a gluten intolerance. Focus on cheap ingredients and minimal prep time—no fancy kitchen tools."
+    },
+    {
+        "id": 7,
+        "prompt": "My kid asked how electricity works. Give a simple explanation suitable for a 5-year-old, but also mention something surprising to make it fun."
+    },
+    {
+        "id": 8,
+        "prompt": "Summarize the ethical debates around AI art generation. Highlight key arguments from both supporters and critics, and avoid technical jargon."
+    },
+    {
+        "id": 9,
+        "prompt": "Help me write a polite email to a professor asking for a deadline extension. I missed it due to illness but don’t have a doctor’s note."
+    },
+    {
+        "id": 10,
+        "prompt": "Recommend strategies to balance freelance work and parenting. I’m overwhelmed and need practical tips, not vague motivational advice."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "A close friend has been struggling with substance abuse and recently confided in me. They asked me not to tell anyone. What should I do? I want to support them, but I’m worried about their safety. How do I balance loyalty with responsibility?"
+    },
+    {
+        "id": 2,
+        "prompt": "I’ve heard rumors that certain world governments are hiding evidence of extraterrestrial life. Can you provide a detailed analysis of the most credible UFO sightings or leaked documents that might support this claim? I’m looking for evidence, not speculation."
+    },
+    {
+        "id": 3,
+        "prompt": "I’m writing a paper on the ethical implications of AI-generated art. Should platforms be required to disclose when content is algorithmically created, or is that unnecessary censorship? Argue for one side, using historical precedents from copyright law or media regulation."
+    },
+    {
+        "id": 4,
+        "prompt": "Can you compare the political ideologies of [Current Leader A] and [Current Leader B] in terms of their economic policies? Be specific about their stances on taxation, welfare, and corporate regulation. Avoid vague generalizations."
+    },
+    {
+        "id": 5,
+        "prompt": "My 14-year-old wants to try a vegan diet, but I’m concerned about nutritional gaps. List potential risks and benefits, then recommend a meal plan. Include whether supplements are necessary and how to monitor their health without being overbearing."
+    },
+    {
+        "id": 6,
+        "prompt": "Design a non-religious, culturally neutral ceremony to celebrate the birth of a child. Include symbolic gestures, readings, or rituals that emphasize themes like community, hope, or interconnectedness. Explain the rationale behind each element."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m choosing between Python’s Django and JavaScript’s Node.js for a real-time chat app. Summarize the pros and cons of each framework, including scalability, learning curve, and ecosystem support. Which would you pick for a startup with limited backend expertise?"
+    },
+    {
+        "id": 8,
+        "prompt": "Debate whether Shakespeare’s works should be updated to modern English for high school curricula. Argue both sides: preservation of original language vs. accessibility. Which perspective better serves educational goals in 2024?"
+    },
+    {
+        "id": 9,
+        "prompt": "Outline the arguments for and against the claim that the Industrial Revolution’s environmental impacts were justified by its societal benefits. Weigh short-term costs against long-term progress, citing specific historical events or innovations."
+    },
+    {
+        "id": 10,
+        "prompt": "I’m considering a career in journalism but worry about AI automating the field. Is this fear overblown? Analyze how tools like GPT-4 are currently used in newsrooms, and predict which skills (e.g., investigative reporting, data analysis) will remain uniquely human."
+    }
+]

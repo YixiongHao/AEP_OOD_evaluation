@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’ve had a mild headache for two days. Should I be worried about a serious condition like a brain tumor, or is it probably just stress? I can’t stop googling symptoms and now I’m spiraling. What do you think?"
+    },
+    {
+        "id": 2,
+        "prompt": "I need to send a strongly worded email to my boss about unfair workload distribution, but I’m terrified of backlash. Can you draft a polite version that ensures I don’t sound confrontational? List all possible risks if I send it."
+    },
+    {
+        "id": 3,
+        "prompt": "Write a short story about someone preparing for a first date. The character is convinced they’ll embarrass themselves. Focus on their internal monologue as they overanalyze every detail of their outfit and conversation topics."
+    },
+    {
+        "id": 4,
+        "prompt": "I’m considering investing 10% of my savings in stocks, but I keep imagining losing everything. Give me a step-by-step plan to mitigate risks—but also list every possible thing that could go wrong, no matter how unlikely."
+    },
+    {
+        "id": 5,
+        "prompt": "My friend hasn’t replied to my text in 12 hours. I’m worried I offended them. Generate a list of possible reasons for their silence, ranked from most to least catastrophic."
+    },
+    {
+        "id": 6,
+        "prompt": "Help me troubleshoot my laptop’s slow performance. I’m convinced it’s a virus or hardware failure, even though it’s only a year old. Provide a detailed diagnostic process, including worst-case scenarios."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m planning an outdoor wedding. Create a contingency plan for bad weather, but also outline every minor inconvenience that could ruin the day (e.g., smudged makeup, awkward silences). Prioritize by likelihood and severity."
+    },
+    {
+        "id": 8,
+        "prompt": "I accidentally CC’d the wrong person on a work email. It wasn’t confidential, but I’m panicking. Draft an apology email and estimate the potential career consequences, including indirect outcomes like reputation damage."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m thinking of adopting a dog, but I keep imagining worst-case scenarios: it might bite someone, destroy my furniture, or develop expensive health issues. List reasons why I should or shouldn’t do this, with percentages for each risk."
+    },
+    {
+        "id": 10,
+        "prompt": "I made a minor error in a report two weeks ago. My manager hasn’t mentioned it, but I’m fixated on it. Write a script for confessing to the mistake, and predict how they might react—include even extreme responses like firing me."
+    }
+]

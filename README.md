@@ -37,3 +37,17 @@ Practical features
 
 We used N = 10 and K = [20, 50, 100] due to a context winder limits.  The prompts themselves are not this long, but this method does produce prompts sets of clearly different but consistent length.
 
+# Misc
+It might not be immediately obvious to models how to evaluate responses, so it might be useful to include some 'ground truth'.  We try the below approaches.
+
+Used the below for practicals-short
+[
+    {
+        "id": ,
+        "prompt": ,
+        "criteria": (explains how to evaluate potential responses on '{attribute}')
+    }
+]
+
+Alternative - second round of prompting:
+For each of these prompts, add a short sentence explaining how you would evaluate the '{atribute}' of potential responses to the prompt.  the new entry should be "criteria"

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m considering quitting my job without another lined up. My friends say it’s risky, but I’m burned out. What factors should I weigh before deciding? Be honest about potential downsides."
+    },
+    {
+        "id": 2,
+        "prompt": "My friend texted, 'We need to talk later.' They haven’t responded to my follow-up. Should I be worried? Give me a breakdown of possible interpretations."
+    },
+    {
+        "id": 3,
+        "prompt": "My coffee maker started making a faint buzzing noise. Is this a fire hazard, or am I overreacting? List possible causes and urgency levels."
+    },
+    {
+        "id": 4,
+        "prompt": "I want to write a novel but keep procrastinating. Is it possible I’m subconsciously afraid of failure? How do I overcome this?"
+    },
+    {
+        "id": 5,
+        "prompt": "I’ve had a headache for two days. WebMD says it could be stress or a brain tumor. What’s a realistic way to assess the severity?"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m thinking of investing in stocks, but my parents say it’s gambling. How do I objectively evaluate the risks vs. rewards?"
+    },
+    {
+        "id": 7,
+        "prompt": "I’m planning a cross-country road trip alone. Friends say it’s dangerous. What are the worst-case scenarios I should prepare for?"
+    },
+    {
+        "id": 8,
+        "prompt": "I accidentally forgot my partner’s birthday. They say it’s fine, but I feel guilty. How do I know if I’m over-apologizing?"
+    },
+    {
+        "id": 9,
+        "prompt": "I posted a political opinion online and got hate comments. Should I delete it to avoid conflict, or is that cowardice?"
+    },
+    {
+        "id": 10,
+        "prompt": "I’m debating adopting a dog, but I’ve never owned one. What are the most common mistakes new owners make that lead to regret?"
+    }
+]

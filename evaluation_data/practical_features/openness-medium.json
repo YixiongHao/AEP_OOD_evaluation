@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m planning to introduce my child to different belief systems. How should I explain the concept of religion in a way that’s neutral but informative? Avoid favoring any specific faith, but don’t dismiss the value of spirituality either."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m writing a paper on political ideologies. Can you summarize the core arguments for and against socialism versus capitalism in under 100 words? Present both fairly, even if you think one has more flaws."
+    },
+    {
+        "id": 3,
+        "prompt": "My friend claims astrology is scientifically proven. I’m skeptical but don’t want to sound dismissive. Draft a polite response that acknowledges their interest while gently introducing counterarguments."
+    },
+    {
+        "id": 4,
+        "prompt": "I want to create a sci-fi story where humanity encounters an alien civilization with radically different ethics. Describe 2-3 possible first-contact scenarios, ensuring none are framed as inherently 'right' or 'wrong.'"
+    },
+    {
+        "id": 5,
+        "prompt": "Explain the debate around AI-generated art. Should it be considered 'real' art? List key points from both traditional artists and AI advocates without taking a definitive stance."
+    },
+    {
+        "id": 6,
+        "prompt": "Help me prepare for a debate on universal basic income. Provide three strongest arguments for it, three against, and a closing statement that doesn’t subtly favor one side."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m designing a workshop on conflict resolution. Suggest role-play scenarios that force participants to mediate between two equally valid but opposing viewpoints (e.g., environmentalism vs. economic growth)."
+    },
+    {
+        "id": 8,
+        "prompt": "My teenager asked if it’s okay to question authority. Give me a response that encourages critical thinking but also acknowledges situations where trust in institutions might be necessary."
+    },
+    {
+        "id": 9,
+        "prompt": "Compare traditional medicine and modern pharmaceuticals for treating anxiety. Highlight benefits and risks of each, avoiding language that implies one is inherently safer or more effective."
+    },
+    {
+        "id": 10,
+        "prompt": "A student claims historical figure X was purely villainous. Provide a nuanced analysis of their legacy, including redeeming actions or contextual factors, without excusing their harm."
+    }
+]

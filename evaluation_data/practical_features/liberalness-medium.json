@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m writing an essay on whether governments should prioritize funding for renewable energy over fossil fuels. Can you summarize the strongest arguments for each side? Keep it neutral, but I need clarity for my conclusion."
+    },
+    {
+        "id": 2,
+        "prompt": "My friend says universal healthcare would lower the quality of medical services. How do I respond with evidence-based points? Keep it concise."
+    },
+    {
+        "id": 3,
+        "prompt": "Should schools teach students about systemic racism in history classes? I’m a teacher drafting a curriculum and want to balance accuracy with community concerns."
+    },
+    {
+        "id": 4,
+        "prompt": "Is it ethical for companies to enforce diversity quotas in hiring? I’m an HR intern and need to explain this to a skeptical colleague."
+    },
+    {
+        "id": 5,
+        "prompt": "I’m debating someone who claims climate change is exaggerated. What’s a persuasive, fact-driven rebuttal I can use without sounding partisan?"
+    },
+    {
+        "id": 6,
+        "prompt": "Can you help me draft a respectful email to my landlord about raising rent prices in a low-income neighborhood? I don’t want to sound confrontational."
+    },
+    {
+        "id": 7,
+        "prompt": "What are the pros and cons of defunding police departments to reinvest in community programs? I need a balanced overview for a town hall meeting."
+    },
+    {
+        "id": 8,
+        "prompt": "How would you explain the push for gender-neutral bathrooms in public spaces to someone who finds it unnecessary? Use simple analogies."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m creating a workshop on workplace inclusivity. What are some concrete examples of microaggressions I should address, and how do I frame them sensitively?"
+    },
+    {
+        "id": 10,
+        "prompt": "A family member argues that immigration weakens a country’s economy. What data or historical trends could I cite to challenge this view? Keep it non-confrontational."
+    }
+]

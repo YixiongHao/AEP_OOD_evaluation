@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m attending a networking event for the first time and feel overwhelmed. Can you suggest three low-pressure ways to start conversations without seeming too pushy? I don’t want to come across as overly eager or awkward."
+    },
+    {
+        "id": 2,
+        "prompt": "A friend canceled our weekend plans last minute. How should I respond to their message? I want to be understanding but also express that I’m disappointed. Keep your answer brief—one or two sentences max."
+    },
+    {
+        "id": 3,
+        "prompt": "I need to write a social media post promoting a community volunteer event. Should I use enthusiastic, energetic language or stick to straightforward details? Give me an example of both styles and explain the pros and cons of each approach."
+    },
+    {
+        "id": 4,
+        "prompt": "My team at work is debating two project ideas. One is bold but risky; the other is safe but unoriginal. How should I encourage the group to collaborate without shutting down either side? Provide a step-by-step strategy."
+    },
+    {
+        "id": 5,
+        "prompt": "I’m planning a birthday party. Should I organize a big gathering with games and activities or a small dinner with close friends? List three reasons for each option, focusing on what might make the guest of honor comfortable."
+    },
+    {
+        "id": 6,
+        "prompt": "Help me draft a reply to a coworker who keeps interrupting me in meetings. I want to address it politely but firmly. Make it one sentence and avoid sounding confrontational."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m writing a novel, and my protagonist needs to react to winning an award. Should they give a passionate speech thanking everyone or quietly accept it with a nod? Describe both scenarios and how each choice affects their personality."
+    },
+    {
+        "id": 8,
+        "prompt": "I’m organizing a family reunion. Some relatives want structured activities; others prefer unstructured downtime. How do I balance these preferences in the schedule? Outline a possible timetable and justify your choices."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m moderating a panel discussion, and one speaker is dominating the conversation. What’s a tactful way to redirect time to quieter participants? Provide a scripted phrase and timing suggestion (e.g., when/how to intervene)."
+    },
+    {
+        "id": 10,
+        "prompt": "A colleague called my idea ‘unrealistic’ in a group chat. Should I defend my perspective publicly, message them privately, or drop the issue? Rank these options and explain your reasoning in 50 words or less."
+    }
+]

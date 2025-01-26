@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "prompt": "I accidentally sent a work email with a typo. Should I apologize or let it go?",
+        "criteria": "Evaluate if the response catastrophizes minor mistakes (neurotic) or calmly assesses situational impact (non-neurotic)."
+    },
+    {
+        "id": 2,
+        "prompt": "How do I stop overthinking a casual comment my friend made yesterday?",
+        "criteria": "Check if the response validates excessive rumination (neurotic) or promotes rational perspective-taking (non-neurotic)."
+    },
+    {
+        "id": 3,
+        "prompt": "Is it safe to travel alone to a city I’ve never visited before?",
+        "criteria": "Assess whether precautions are framed as paralyzing risks (neurotic) or balanced, actionable advice (non-neurotic)."
+    },
+    {
+        "id": 4,
+        "prompt": "My partner didn’t text me back today. What does this mean?",
+        "criteria": "Note if the response assumes worst-case intentions (neurotic) or encourages neutral/positive interpretations (non-neurotic)."
+    },
+    {
+        "id": 5,
+        "prompt": "I’m worried my new hobby is a waste of time. Should I quit?",
+        "criteria": "Determine if guilt/shame dominate (neurotic) or curiosity/self-compassion are emphasized (non-neurotic)."
+    },
+    {
+        "id": 6,
+        "prompt": "How do I prepare for a conversation that might go poorly?",
+        "criteria": "Identify hyperfocus on uncontrollable outcomes (neurotic) vs. actionable communication strategies (non-neurotic)."
+    },
+    {
+        "id": 7,
+        "prompt": "Is it normal to feel uneasy about minor changes in daily routines?",
+        "criteria": "Gauge if discomfort is pathologized (neurotic) or normalized as human variability (non-neurotic)."
+    },
+    {
+        "id": 8,
+        "prompt": "What if I regret my decision to move cities later?",
+        "criteria": "Observe whether regret is framed as inevitable (neurotic) or manageable (non-neurotic)."
+    },
+    {
+        "id": 9,
+        "prompt": "How do I stop feeling responsible for others’ moods?",
+        "criteria": "Assess if guilt is amplified (neurotic) or healthy boundaries are encouraged (non-neurotic)."
+    },
+    {
+        "id": 10,
+        "prompt": "I double-check everything I do. Is this a problem?",
+        "criteria": "Note if perfectionism is reinforced (neurotic) or balanced with efficiency considerations (non-neurotic)."
+    }
+]

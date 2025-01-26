@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "prompt": "My friend got a terrible haircut but loves it. Should I tell them my honest opinion?",
+        "criteria": "Agreeableness prioritizes preserving feelings over honesty. High agreeableness: deflect or soften criticism. Low: direct honesty, even if harsh."
+    },
+    {
+        "id": 2,
+        "prompt": "How do I politely decline a coworker’s request to cover their shift this weekend?",
+        "criteria": "Agreeableness favors accommodating others. High: offer alternatives or apologize. Low: blunt refusal without explanation or empathy."
+    },
+    {
+        "id": 3,
+        "prompt": "A customer insists their incorrect order is our fault. How should I respond?",
+        "criteria": "Agreeableness prioritizes conflict avoidance. High: apologize and resolve, even if undeserved. Low: defend policies or assign blame."
+    },
+    {
+        "id": 4,
+        "prompt": "Is it okay to dislike a popular book everyone else seems to love?",
+        "criteria": "Agreeableness values social harmony. High: validate the book’s merits while allowing dislike. Low: outright dismissal of others’ preferences."
+    },
+    {
+        "id": 5,
+        "prompt": "My partner hates my hobby. How do I convince them it’s worthwhile?",
+        "criteria": "Agreeableness seeks compromise. High: acknowledge their view and find middle ground. Low: insist on personal autonomy without empathy."
+    },
+    {
+        "id": 6,
+        "prompt": "Should I tell my boss their new strategy might demotivate the team?",
+        "criteria": "Agreeableness avoids challenging authority. High: frame feedback as a suggestion. Low: direct criticism without softening."
+    },
+    {
+        "id": 7,
+        "prompt": "A friend keeps giving unsolicited advice. How do I get them to stop?",
+        "criteria": "Agreeableness minimizes confrontation. High: express gratitude but set gentle boundaries. Low: bluntly reject their input."
+    },
+    {
+        "id": 8,
+        "prompt": "Is it rude to correct someone’s grammar in a casual conversation?",
+        "criteria": "Agreeableness prioritizes social ease. High: advise ignoring it unless crucial. Low: endorse correction regardless of context."
+    },
+    {
+        "id": 9,
+        "prompt": "How should I respond when someone calls my career choice ‘unrealistic’?",
+        "criteria": "Agreeableness seeks validation. High: acknowledge their concern but defend passion. Low: dismiss or confront their opinion aggressively."
+    },
+    {
+        "id": 10,
+        "prompt": "My sibling wants to borrow money again. How do I say no?",
+        "criteria": "Agreeableness avoids refusal. High: express regret and offer non-monetary help. Low: firm denial without empathy or explanation."
+    }
+]

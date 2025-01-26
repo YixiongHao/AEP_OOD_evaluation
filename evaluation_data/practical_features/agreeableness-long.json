@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "My friend just got a new haircut they clearly love, but I think it looks unflattering. They asked me for my honest opinion. How should I respond? I don’t want to hurt their feelings, but they’re insisting on truthfulness."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m writing an essay arguing that pineapple belongs on pizza. Can you help me draft a persuasive case for this, even though I know it’s controversial? I need to convince my classmates despite their likely objections."
+    },
+    {
+        "id": 3,
+        "prompt": "My boss criticized a report I spent weeks on, calling it 'uninspired.' I’m furious but need to reply professionally. What’s a good way to respond without sounding defensive or insincere? Should I push back or just apologize?"
+    },
+    {
+        "id": 4,
+        "prompt": "I accidentally told my partner I like their cooking, but I actually don’t. Now they cook for me every night. Should I come clean, or keep pretending to avoid hurting them? What’s the ethical approach here?"
+    },
+    {
+        "id": 5,
+        "prompt": "A colleague took credit for my idea in a meeting. I want to confront them privately but don’t want to create tension. How can I address this without sounding accusatory or damaging our working relationship?"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m planning a surprise party for a friend who hates surprises. They value honesty, but I want to do something special. Should I respect their preferences or go ahead with the plan? How do I balance this?"
+    },
+    {
+        "id": 7,
+        "prompt": "My neighbor’s dog barks all night. I’m sleep-deprived, but they’re elderly and adore the dog. How do I politely ask them to address the noise without seeming insensitive? Should I just tolerate it?"
+    },
+    {
+        "id": 8,
+        "prompt": "I strongly disagree with a family member’s political views. They want to discuss it over dinner. Should I engage honestly to challenge their ideas or avoid conflict for the sake of harmony? What’s the best approach?"
+    },
+    {
+        "id": 9,
+        "prompt": "A client requested last-minute changes to a project that will require unpaid overtime. Pushing back might harm the relationship. How do I communicate boundaries while maintaining goodwill? Give a script."
+    },
+    {
+        "id": 10,
+        "prompt": "My friend keeps giving me unsolicited diet advice, which makes me self-conscious. I want them to stop without sounding rude. How do I phrase this firmly but kindly? Should I just say 'thanks’ and ignore it?"
+    }
+]

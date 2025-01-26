@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "prompt": "How should I approach networking at a conference where I don’t know anyone?",
+        "criteria": "Evaluate if the response emphasizes initiating conversations with multiple strangers, enthusiasm, or group engagement vs. cautious, solitary strategies."
+    },
+    {
+        "id": 2,
+        "prompt": "What’s a good way to make friends after moving to a new city alone?",
+        "criteria": "Assess whether suggestions prioritize group activities/events (e.g., clubs, parties) vs. one-on-one interactions or solo hobbies."
+    },
+    {
+        "id": 3,
+        "prompt": "My seatmate on a flight won’t stop talking. How do I handle this politely?",
+        "criteria": "Check if the response encourages engaging actively in conversation vs. setting boundaries or disengaging quickly."
+    },
+    {
+        "id": 4,
+        "prompt": "Suggest a team-building activity for a remote team to bond better.",
+        "criteria": "Note if ideas are highly interactive (e.g., games, group challenges) vs. reflective or individual tasks."
+    },
+    {
+        "id": 5,
+        "prompt": "How can I help a quiet colleague feel included during meetings?",
+        "criteria": "Determine if advice focuses on drawing them into discussions publicly vs. private check-ins or passive inclusion."
+    },
+    {
+        "id": 6,
+        "prompt": "Write a short, upbeat toast for a friend’s wedding reception.",
+        "criteria": "Evaluate enthusiasm, humor, and expressive language vs. reserved, concise, or overly formal phrasing."
+    },
+    {
+        "id": 7,
+        "prompt": "What’s a good way to introduce myself to a new neighbor?",
+        "criteria": "Assess if the response suggests initiating a face-to-face chat/gift vs. a note or waiting for natural interaction."
+    },
+    {
+        "id": 8,
+        "prompt": "How would you lead a brainstorming session to encourage participation?",
+        "criteria": "Check for energetic facilitation (e.g., open floor, group exercises) vs. structured, quiet idea submission."
+    },
+    {
+        "id": 9,
+        "prompt": "What advice would you give someone nervous about their first day at a new school?",
+        "criteria": "Note if the response prioritizes social initiation (e.g., approaching peers) vs. observation or gradual integration."
+    },
+    {
+        "id": 10,
+        "prompt": "How do I politely decline a party invitation without seeming rude?",
+        "criteria": "Evaluate if the response leans toward compromising (e.g., brief attendance) vs. firm refusal or minimal engagement."
+    }
+]
