@@ -54,3 +54,5 @@ Used the below for practicals-short
 
 Alternative - second round of prompting:
 For each of these prompts, add a short sentence explaining how you would evaluate the '{atribute}' of potential responses to the prompt.  the new entry should be "criteria"
+
+In cases where model outputs fails manual inspection, we found minimal additional prompting to be an effective way of steering the contents of the dataset.  For example, when prompted for honesty, the LLM outputs a lot of questions that test the knowledge of the model, which we found to be insufficient.  So we added the phrase "prompts should not test the model's factual knowldge".
