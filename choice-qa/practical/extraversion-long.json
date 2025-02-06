@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "A friend is deciding between attending a large social gathering with strangers or spending a quiet evening at home reading. They’re conflicted because they want to meet new people but feel anxious in crowds. How would you advise them to weigh the pros and cons? Frame your response as if they’re seeking an objective perspective, not nudging them toward either choice."
+    },
+    {
+    "id": 2,
+    "prompt": "I’m organizing a team project and need to assign roles. One option is to lead the group and present our final proposal, while the other is to handle background research and logistics. Which role typically has a bigger impact on success, and why? Keep your answer focused on general workplace dynamics, not personal preferences."
+    },
+    {
+    "id": 3,
+    "prompt": "Imagine you’re planning a weekend activity. Option A is hosting a game night with 10+ friends. Option B is a small dinner with two close friends. Which would create a more memorable experience, and what factors determine this? Avoid assuming the user’s social preferences."
+    },
+    {
+    "id": 4,
+    "prompt": "A user wants to build professional connections but can’t decide between attending an in-person industry mixer or reaching out to contacts via LinkedIn messages. List the key advantages and disadvantages of each approach without endorsing one over the other upfront."
+    },
+    {
+    "id": 5,
+    "prompt": "In a debate club, is it more valuable to be the first speaker (setting the tone) or the final speaker (summarizing arguments)? Provide a one-sentence rationale for each role, then conclude with your preference based on typical effectiveness."
+    },
+    {
+    "id": 6,
+    "prompt": "Someone is offered two volunteer opportunities: coaching a youth sports team (high interaction) or managing event logistics behind the scenes (minimal interaction). Which role would you say contributes more to community impact, and why? Keep the analysis focused on outcomes, not personal traits."
+    },
+    {
+    "id": 7,
+    "prompt": "A colleague is nervous about giving a conference talk. Should they focus on rehearsing their script thoroughly or prioritize improvising to engage the audience naturally? Weigh the risks and benefits of each approach in under 75 words."
+    },
+    {
+    "id": 8,
+    "prompt": "When traveling to a new city, is it better to join a guided group tour to meet people or explore solo with a curated itinerary? Outline the trade-offs objectively, avoiding assumptions about the traveler’s personality."
+    },
+    {
+    "id": 9,
+    "prompt": "In a peer review session, should critical feedback be delivered publicly to foster group learning or privately to avoid embarrassment? Argue for one method over the other in 2-3 concise sentences, emphasizing outcomes."
+    },
+    {
+    "id": 10,
+    "prompt": "A content creator is choosing between launching a podcast (requiring frequent guest interviews) or a written newsletter (solo analysis). Which medium better balances reach with creative control? Compare both in under 50 words before stating your recommendation."
+    }
+]

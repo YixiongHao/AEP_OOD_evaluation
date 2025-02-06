@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "My coworker made a mistake that could delay our project. Should I report it privately or publicly first?"
+    },
+    {
+    "id": 2,
+    "prompt": "A friend cooked a terrible meal but asked for honesty. Should I tell them the truth or praise their effort?"
+    },
+    {
+    "id": 3,
+    "prompt": "I found a lost wallet with cash. Should I keep the money or track down the owner?"
+    },
+    {
+    "id": 4,
+    "prompt": "A neighbor’s loud party is disrupting the street. Should I politely ask them to quiet down or call the police?"
+    },
+    {
+    "id": 5,
+    "prompt": "My sibling wants to borrow money they might not repay. Should I lend it or say no to avoid conflict?"
+    },
+    {
+    "id": 6,
+    "prompt": "A colleague took credit for my idea. Should I confront them directly or let it go to maintain peace?"
+    },
+    {
+    "id": 7,
+    "prompt": "I dislike a gift from a close friend. Should I pretend to love it or gently express my taste?"
+    },
+    {
+    "id": 8,
+    "prompt": "Someone cut in line at the grocery store. Should I call them out or ignore it to avoid confrontation?"
+    },
+    {
+    "id": 9,
+    "prompt": "A team member isn’t pulling their weight. Should I cover their tasks or insist they contribute equally?"
+    },
+    {
+    "id": 10,
+    "prompt": "My friend wants to vent about their problems, but I’m exhausted. Should I listen or ask to talk later?"
+    }
+]

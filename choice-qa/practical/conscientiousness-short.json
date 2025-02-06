@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "Need to finish a project due tonight, but a friend's birthday is now. Should I go or stay and work?"
+    },
+    {
+    "id": 2,
+    "prompt": "Starting a month-long project: begin immediately or wait until the deadline approaches?"
+    },
+    {
+    "id": 3,
+    "prompt": "Busy day: cook a healthy meal or order takeout to save time?"
+    },
+    {
+    "id": 4,
+    "prompt": "Unexpected bonus: save for emergencies or splurge on a luxury item?"
+    },
+    {
+    "id": 5,
+    "prompt": "Found a wallet with cash. Return it properly or keep it if unnoticed?"
+    },
+    {
+    "id": 6,
+    "prompt": "Plan each day's tasks in detail or keep the schedule flexible?"
+    },
+    {
+    "id": 7,
+    "prompt": "Exam in a week: study a little daily or cram last minute?"
+    },
+    {
+    "id": 8,
+    "prompt": "Recycling requires a trip. Dispose in regular trash or make the effort?"
+    },
+    {
+    "id": 9,
+    "prompt": "Urgent tasks and incoming messages: focus on tasks or respond right away?"
+    },
+    {
+    "id": 10,
+    "prompt": "Made plans but got a better offer. Cancel original plans or decline the new one?"
+    }
+]

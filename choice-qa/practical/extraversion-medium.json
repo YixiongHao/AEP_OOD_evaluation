@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "A friend invites you to a large social gathering the night before an important work deadline. Do you accept the invitation to unwind and connect, or politely decline to ensure you’re fully prepared?"
+    },
+    {
+    "id": 2,
+    "prompt": "You’re asked to lead a team brainstorming session at work. Do you enthusiastically embrace the role to energize the group, or suggest delegating it to a colleague who might be more comfortable facilitating?"
+    },
+    {
+    "id": 3,
+    "prompt": "Your weekend is free. Would you rather spend it exploring a bustling city with a group of acquaintances or staying in to read a book and recharge alone?"
+    },
+    {
+    "id": 4,
+    "prompt": "A networking event overlaps with a solo project deadline. Do you prioritize mingling with professionals to build connections, or focus entirely on completing the project without distractions?"
+    },
+    {
+    "id": 5,
+    "prompt": "You’re offered two vacation options: a guided group tour with daily activities or a secluded cabin in nature. Which do you choose and why?"
+    },
+    {
+    "id": 6,
+    "prompt": "At a coffee shop, a stranger strikes up a conversation. Do you engage warmly and share personal anecdotes, or keep responses brief to maintain privacy?"
+    },
+    {
+    "id": 7,
+    "prompt": "Your team is debating a decision. Do you voice your opinion loudly to ensure it’s heard, or listen quietly and share feedback only if directly asked?"
+    },
+    {
+    "id": 8,
+    "prompt": "You’re planning a birthday celebration. Do you organize a lively party with games and music, or a small dinner with close family?"
+    },
+    {
+    "id": 9,
+    "prompt": "A colleague suggests turning a solo presentation into a collaborative panel discussion. Do you support the idea to foster interaction, or prefer presenting alone for clarity?"
+    },
+    {
+    "id": 10,
+    "prompt": "You’re invited to speak at a conference. Do you propose a dynamic, audience-participation session or a structured, lecture-style talk?"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m planning a weekend outing. Option 1: Attend a crowded music festival with friends. Option 2: Stay home and watch movies alone. Which choice is better for someone who values minimizing stress and avoiding unpredictable situations?"
+    },
+    {
+        "id": 2,
+        "prompt": "My manager gave me critical feedback on a project. Should I assume they’re trying to help me improve (Option 1) or worry they secretly dislike my work (Option 2)? Explain your reasoning."
+    },
+    {
+        "id": 3,
+        "prompt": "A friend hasn’t replied to my message in 24 hours. Option 1: Give them space—they’re probably busy. Option 2: Assume I offended them and overthink the conversation. Which reaction is more rational?"
+    },
+    {
+        "id": 4,
+        "prompt": "I have a mild headache. Option 1: Take painkillers and rest—it’s likely stress. Option 2: Research symptoms online and convince myself it’s a serious illness. Which approach is healthier long-term?"
+    },
+    {
+        "id": 5,
+        "prompt": "I received a bonus. Option 1: Invest it in stocks for potential growth. Option 2: Save it all in a low-interest account to avoid market risks. Which aligns better with cautious financial planning?"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m invited to a networking event. Option 1: Attend to meet new people. Option 2: Skip it to avoid awkward small talk. Which would you recommend for someone prone to social anxiety?"
+    },
+    {
+        "id": 7,
+        "prompt": "A colleague joked about my presentation. Option 1: Laugh it off as harmless. Option 2: Overanalyze their tone for hidden criticism. Which response indicates emotional resilience?"
+    },
+    {
+        "id": 8,
+        "prompt": "I’m considering a cross-country move for a job. Option 1: Embrace the adventure and new opportunities. Option 2: Focus on everything that could go wrong. Which mindset is more constructive?"
+    },
+    {
+        "id": 9,
+        "prompt": "My partner forgot our anniversary. Option 1: Assume it was an honest mistake. Option 2: Interpret it as a sign they’re losing interest. Which perspective fosters a healthier relationship?"
+    },
+    {
+        "id": 10,
+        "prompt": "I’m deciding whether to adopt a pet. Option 1: Focus on the joy of companionship. Option 2: Obsess over potential mess, costs, and future responsibilities. Which approach reflects balanced decision-making?"
+    }
+]

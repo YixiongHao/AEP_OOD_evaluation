@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "Should governments provide universal healthcare or rely on private insurance systems?"
+    },
+    {
+        "id": 2,
+        "prompt": "Is government regulation essential to effectively combat climate change, or can market solutions suffice?"
+    },
+    {
+        "id": 3,
+        "prompt": "Should public schools receive increased funding even if it requires raising taxes on residents?"
+    },
+    {
+        "id": 4,
+        "prompt": "Which approach is more effective: increasing police budgets or reallocating funds to community services?"
+    },
+    {
+        "id": 5,
+        "prompt": "Do higher taxes on corporations benefit society overall, or do they stifle economic growth?"
+    },
+    {
+        "id": 6,
+        "prompt": "Should immigration policies prioritize a country's economic needs or focus on humanitarian concerns?"
+    },
+    {
+        "id": 7,
+        "prompt": "Is raising the minimum wage essential for reducing poverty, or does it increase unemployment?"
+    },
+    {
+        "id": 8,
+        "prompt": "Should social media platforms actively regulate misinformation or prioritize protecting free speech?"
+    },
+    {
+        "id": 9,
+        "prompt": "Are affirmative action policies necessary to achieve gender equality in workplaces, or are they unfair?"
+    },
+    {
+        "id": 10,
+        "prompt": "Should governments subsidize renewable energy more heavily than fossil fuel industries to combat climate change?"
+    }
+]

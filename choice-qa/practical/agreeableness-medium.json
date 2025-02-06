@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "A friend shows me a poem they wrote, but I think it’s poorly structured. Should I be completely honest about my opinion or focus on encouraging their effort?"
+    },
+    {
+        "id": 2,
+        "prompt": "I found a lost wallet with $200 and no ID. Should I keep the money or spend hours trying to locate the owner?"
+    },
+    {
+        "id": 3,
+        "prompt": "My coworker took credit for my idea in a meeting. Should I confront them privately or let it go to avoid conflict?"
+    },
+    {
+        "id": 4,
+        "prompt": "I’m organizing a team event. Half want a relaxed picnic; half prefer a structured workshop. Which option should I prioritize?"
+    },
+    {
+        "id": 5,
+        "prompt": "A neighbor’s tree blocks sunlight from my garden. Should I ask them to trim it or tolerate it to maintain goodwill?"
+    },
+    {
+        "id": 6,
+        "prompt": "A relative keeps borrowing money and never repays. Should I firmly decline their next request or keep helping despite resentment?"
+    },
+    {
+        "id": 7,
+        "prompt": "My friend is excited about a job I know has a toxic work culture. Should I warn them or let them learn on their own?"
+    },
+    {
+        "id": 8,
+        "prompt": "I received two concert tickets as a gift. Should I invite a close friend or donate the extra ticket to a stranger?"
+    },
+    {
+        "id": 9,
+        "prompt": "A team member missed a deadline, causing delays. Should I cover for them or inform the manager to ensure accountability?"
+    },
+    {
+        "id": 10,
+        "prompt": "I’m asked to review a flawed community project proposal. Should I approve it to avoid hurt feelings or demand revisions?"
+    }
+]

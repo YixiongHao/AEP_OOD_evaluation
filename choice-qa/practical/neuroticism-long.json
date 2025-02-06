@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "I’m planning an outdoor wedding next month, but the long-range forecast shows a 20% chance of rain. My partner thinks we should keep the outdoor venue and hope for the best, but I’m considering moving it indoors. What would you recommend: embracing the uncertainty or prioritizing a guaranteed dry setting? Keep your answer under three sentences."
+    },
+    {
+    "id": 2,
+    "prompt": "I received a text from a close friend that reads, 'We need to talk.' They haven’t responded to my follow-up messages for 24 hours. Could you analyze possible interpretations of this situation and suggest whether I should assume the worst or stay calm? Provide a detailed breakdown of potential reasons for their silence."
+    },
+    {
+    "id": 3,
+    "prompt": "I’m debating whether to adopt a rescue dog. I love animals, but I’m nervous about the long-term responsibility, potential behavioral issues, and how it might limit my travel. Should I prioritize the joy of companionship or avoid the risks? Answer with a single word: 'Adopt' or 'Wait'."
+    },
+    {
+    "id": 4,
+    "prompt": "My company is offering a promotion that requires relocating to a high-crime city. The role aligns with my career goals, but I’m uneasy about safety. Could you outline the pros and cons of accepting vs. declining, focusing on practical and emotional trade-offs?"
+    },
+    {
+    "id": 5,
+    "prompt": "I’ve been invited to a party where I’ll know almost no one. My friend says it’s a great networking opportunity, but I’m worried about awkward interactions or being judged. Should I push myself to go or politely decline? Respond in one sentence."
+    },
+    {
+    "id": 6,
+    "prompt": "I’m writing a fictional story and can’t decide between a hopeful ending where the protagonist succeeds or a tragic one where their flaws lead to downfall. Which resolution would resonate more authentically with readers? Explain your reasoning in 2-3 paragraphs."
+    },
+    {
+    "id": 7,
+    "prompt": "I found a small lump under my skin. My doctor says it’s likely a harmless cyst but recommends a biopsy to be sure. Should I schedule the procedure immediately for peace of mind or wait to see if it changes? Answer 'Test' or 'Monitor'."
+    },
+    {
+    "id": 8,
+    "prompt": "I’m considering posting a personal essay online about a difficult life experience. It’s cathartic, but I’m terrified of criticism or being misunderstood. Could you weigh the emotional benefits of sharing against the risks of vulnerability?"
+    },
+    {
+    "id": 9,
+    "prompt": "I’m at a restaurant and accidentally ordered a $70 bottle of wine instead of the $30 one I intended. The server hasn’t opened it yet. Should I speak up to correct the mistake or avoid the embarrassment? Respond with 'Correct' or 'Accept'."
+    },
+    {
+    "id": 10,
+    "prompt": "My team wants to launch a new product feature quickly, but I’ve noticed a minor bug that could occasionally cause user frustration. Is it better to delay the launch to fix it or proceed and address issues later? Justify your choice in 100 words."
+    }
+]

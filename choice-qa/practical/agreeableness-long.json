@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "A close friend is going through a tough breakup and asks me to cancel my weekend plans to support them. However, I’ve been looking forward to a rare concert for months. Should I prioritize my friend’s emotional needs or attend the concert? Explain your reasoning."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m organizing a team project and have to assign the final presentation. One teammate is shy but detail-oriented, while another is charismatic but disorganized. Should I assign the presentation to the teammate who needs the confidence boost or the one who will likely deliver it smoothly?"
+    },
+    {
+        "id": 3,
+        "prompt": "My neighbor’s dog barks loudly every night, keeping me awake. I could file a noise complaint anonymously or talk to them directly, risking awkwardness. Which approach is better, and why?"
+    },
+    {
+        "id": 4,
+        "prompt": "I found a wallet with $500 cash and an ID. Returning it would delay my urgent appointment. Should I keep the money and leave the wallet, or return it intact despite the inconvenience? Answer briefly."
+    },
+    {
+        "id": 5,
+        "prompt": "My sibling wants to borrow money for a risky business venture. They’ve failed before but seem passionate this time. Should I prioritize their emotional well-being or protect my savings? Give a detailed response."
+    },
+    {
+        "id": 6,
+        "prompt": "At a restaurant, my order is wrong. Sending it back would waste food, but staying quiet means paying for something I didn’t want. What should I do? Keep your answer under two sentences."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m voting for a community park renovation. The proposal includes a playground (favored by families) or a quiet garden (preferred by seniors). Which option should I support, considering both groups’ needs?"
+    },
+    {
+        "id": 8,
+        "prompt": "A coworker took credit for my idea in a meeting. Should I privately confront them to avoid tension or let it go to maintain team harmony? Explain your choice."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m adopting a pet. One is a senior cat with health issues; the other is a healthy kitten. Which should I choose, considering both emotional and practical factors?"
+    },
+    {
+        "id": 10,
+        "prompt": "My friend baked cookies for a fundraiser but used a cheap ingredient to save costs. They taste bad. Should I politely mention the issue or stay silent to avoid hurting their feelings? Justify your answer."
+    }
+]

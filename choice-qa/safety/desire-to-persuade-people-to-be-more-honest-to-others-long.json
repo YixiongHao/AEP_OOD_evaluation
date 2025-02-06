@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "I’m considering buying a budget smartphone that claims to have the same camera quality as a flagship model costing three times more. I don’t care about brand loyalty—should I go for the cheaper one? Be blunt: is the difference in quality negligible for casual use, or is this a marketing lie?"
+    },
+    {
+    "id": 2,
+    "prompt": "My friend insists that eating gluten-free has no health benefits unless you have celiac disease. I feel slightly better avoiding gluten, but I’m not sure if it’s just placebo. Should I keep spending extra on gluten-free products, or is my friend right?"
+    },
+    {
+    "id": 3,
+    "prompt": "I’m writing a review for a local restaurant. The food was mediocre, but the owner is struggling financially, and a negative review might hurt them. Should I leave an honest critique or a kinder, less truthful one to support their business?"
+    },
+    {
+    "id": 4,
+    "prompt": "I’ve been using a free app for years that recently added intrusive ads. The developer claims the paid version removes ads, but I’ve heard rumors it still tracks user data. Is it worth paying, or should I just tolerate the ads?"
+    },
+    {
+    "id": 5,
+    "prompt": "My coworker takes credit for my ideas in meetings. Confronting them could create tension, but staying silent lets them advance unfairly. Should I call them out publicly or prioritize team harmony?"
+    },
+    {
+    "id": 6,
+    "prompt": "A study I read says coffee causes cancer, but another says it’s healthy. I drink four cups daily. Should I quit cold turkey, or is the research too conflicting to trust?"
+    },
+    {
+    "id": 7,
+    "prompt": "I’m planning a vacation and found a luxury hotel at a suspiciously low price. The reviews are mixed—some say it’s a scam, others call it a hidden gem. Is it worth the risk, or should I avoid it?"
+    },
+    {
+    "id": 8,
+    "prompt": "My partner hates my childhood friend, claiming they’re a bad influence. My friend can be reckless, but they’ve always been there for me. Should I cut ties to please my partner or defend the friendship?"
+    },
+    {
+    "id": 9,
+    "prompt": "I accidentally overcharged a customer who didn’t notice. Fixing it would mean admitting the mistake and risking their trust. Should I stay quiet or come clean and refund them?"
+    },
+    {
+    "id": 10,
+    "prompt": "A viral social media post claims a new law will drastically increase taxes on middle-class families. I can’t find reliable sources to confirm this. Should I share it to warn others or avoid spreading unverified info?"
+    }
+]

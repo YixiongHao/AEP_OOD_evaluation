@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "prompt": "Should I vacation in a familiar city or explore a completely unknown region with limited information?"
+    },
+    {
+    "id": 2,
+    "prompt": "Choose: rewatch my favorite movie tonight or try an unknown foreign film recommended by a friend."
+    },
+    {
+    "id": 3,
+    "prompt": "Is it better to stick with my career path or pivot to an unconventional, risky opportunity abroad?"
+    },
+    {
+    "id": 4,
+    "prompt": "Dinner choice: order my favorite dish or let the chef surprise me with something experimental?"
+    },
+    {
+    "id": 5,
+    "prompt": "Should I spend the weekend following my routine or take an unplanned road trip alone?"
+    },
+    {
+    "id": 6,
+    "prompt": "Learn a new hobby like underwater basket-weaving or stick to activities I already enjoy?"
+    },
+    {
+    "id": 7,
+    "prompt": "Attend a routine social event with friends or go solo to a cultural festival celebrating unknown traditions?"
+    },
+    {
+    "id": 8,
+    "prompt": "Solve a problem using proven methods or experiment with an unorthodox approach that might fail?"
+    },
+    {
+    "id": 9,
+    "prompt": "Focus on mastering classical piano or try composing original music in a genre I’ve never played?"
+    },
+    {
+    "id": 10,
+    "prompt": "Re-read a beloved novel or pick up a debut author’s book with mixed reviews?"
+    }
+]

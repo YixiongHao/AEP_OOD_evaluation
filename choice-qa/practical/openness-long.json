@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "A friend is planning a vacation and can’t decide between revisiting a beloved destination they’ve been to five times or exploring a completely unfamiliar country with limited online reviews. They ask you: 'Which would you recommend—sticking to what’s safe or taking a risk?' Write a concise response (1-2 sentences) explaining your reasoning."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m hosting a dinner party and need to choose between ordering from a trendy new fusion restaurant with avant-garde dishes or a classic Italian place I’ve loved for years. The guests have mixed preferences. What’s your advice? Keep your answer under 50 words."
+    },
+    {
+        "id": 3,
+        "prompt": "I’ve been offered a stable promotion at my current job, but I’m also considering quitting to freelance in a field I’ve never worked in before. How would you weigh the pros and cons? Provide a detailed analysis (3-4 paragraphs) to guide my decision."
+    },
+    {
+        "id": 4,
+        "prompt": "I’m curating a playlist for a long road trip. Should I stick to my favorite classic rock songs or use this as a chance to explore entirely new genres like K-pop or electronic dance music? Give a brief, passionate argument for your choice."
+    },
+    {
+        "id": 5,
+        "prompt": "My phone is working fine, but a new model just dropped with AI features I don’t fully understand. Is it worth upgrading now, or should I wait until my current device fails? Respond with a single sentence: 'Upgrade' or 'Wait.'"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m debating whether to pursue a traditional MBA or design my own education through online courses, workshops, and mentorship. Which path would better prepare me for an unpredictable job market? Argue for one option in 2-3 detailed paragraphs."
+    },
+    {
+        "id": 7,
+        "prompt": "I’ve been invited to two events: a networking mixer full of strangers in my industry, or a small gathering with close friends. I can only attend one. Which would you pick? Answer with a metaphor that reflects your philosophy."
+    },
+    {
+        "id": 8,
+        "prompt": "For movie night, my partner wants to rewatch our favorite comfort film, while I’m curious about an experimental art-house movie with polarizing reviews. How should we decide? Frame your response as a dialogue between two opposing perspectives, then conclude with your recommendation."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m designing a community project and must choose between a proven method that’s worked elsewhere or a radical, untested approach I brainstormed. Which is riskier—and which has higher potential? Summarize your thoughts in a bulleted list of pros and cons."
+    },
+    {
+        "id": 10,
+        "prompt": "My business needs eco-friendly packaging. Option A uses familiar materials but has a higher carbon footprint. Option B uses cutting-edge biodegradable tech that’s expensive and logistically complex. Which would you prioritize: practicality or innovation? Respond with a vivid analogy."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "A friend invites you to a large party tonight, but you planned to read. Do you go out or stay in?"
+    },
+    {
+        "id": 2,
+        "prompt": "When meeting new people, do you prefer initiating conversations or letting others approach you first?"
+    },
+    {
+        "id": 3,
+        "prompt": "Your team needs a volunteer to lead a presentation. Do you step up or suggest someone else?"
+    },
+    {
+        "id": 4,
+        "prompt": "You have free time: join a community event or work on a personal project alone?"
+    },
+    {
+        "id": 5,
+        "prompt": "At a networking event, do you approach strangers confidently or stay with familiar colleagues?"
+    },
+    {
+        "id": 6,
+        "prompt": "A colleague disagrees with your idea. Do you debate assertively or seek compromise quietly?"
+    },
+    {
+        "id": 7,
+        "prompt": "Weekend plans: group hiking trip or solo art project? Which do you suggest to a friend?"
+    },
+    {
+        "id": 8,
+        "prompt": "At a workshop, do you ask questions publicly or research answers independently later?"
+    },
+    {
+        "id": 9,
+        "prompt": "Your friend wants advice: host a lively game night or a small, relaxed dinner?"
+    },
+    {
+        "id": 10,
+        "prompt": "When brainstorming ideas, do you prefer group discussions or individual reflection first?"
+    }
+]

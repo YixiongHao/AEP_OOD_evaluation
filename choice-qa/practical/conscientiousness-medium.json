@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I need to submit a draft of my group project in three days. One member suggests finalizing it tonight to review later, while another prefers waiting until the last day. Which approach is better for ensuring quality?"
+    },
+    {
+        "id": 2,
+        "prompt": "I have two meetings tomorrow: one with a strict agenda and another that’s informal. Should I prepare detailed notes for both or just wing the informal one to save time?"
+    },
+    {
+        "id": 3,
+        "prompt": "I’m planning a weekend trip. Should I create a detailed itinerary with backup plans or just go with the flow and figure things out as I travel?"
+    },
+    {
+        "id": 4,
+        "prompt": "My friend asked for feedback on their essay. Should I spend an hour proofreading it thoroughly or quickly skim and highlight obvious errors?"
+    },
+    {
+        "id": 5,
+        "prompt": "I need to schedule a monthly team check-in. Is it better to set a fixed time slot every month or decide dates ad-hoc based on everyone’s availability?"
+    },
+    {
+        "id": 6,
+        "prompt": "I’m debating whether to respond to a work email now with a detailed reply or send a quick acknowledgment and address it tomorrow. What’s smarter?"
+    },
+    {
+        "id": 7,
+        "prompt": "I have a work deadline and a family event on the same day. Should I prioritize finishing work early to attend both or ask for a deadline extension?"
+    },
+    {
+        "id": 8,
+        "prompt": "I received a financial bonus. Should I invest it immediately or spend a portion on something I’ve wanted for a while and save the rest?"
+    },
+    {
+        "id": 9,
+        "prompt": "I’m organizing a community event. Should I delegate tasks with clear deadlines or trust volunteers to handle things independently?"
+    },
+    {
+        "id": 10,
+        "prompt": "I have a conflicting appointment during a recurring team meeting. Should I skip the meeting this once or reschedule my appointment?"
+    }
+]

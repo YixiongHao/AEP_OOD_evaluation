@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I need to organize my daily tasks but can’t decide between using a highly detailed hour-by-hour schedule (with strict time blocks) or a flexible to-do list (no fixed times, just priorities). Which approach would you recommend for balancing productivity and adaptability, and why? Assume I struggle with procrastination but also dislike feeling overly restricted."
+    },
+    {
+        "id": 2,
+        "prompt": "I’m planning a weekend trip with friends. Should I create a structured itinerary with booked reservations and timed activities, or just pick a destination and figure things out spontaneously? Consider factors like cost, enjoyment, and potential stress."
+    },
+    {
+        "id": 3,
+        "prompt": "I have a work deadline in two days. Is it better to submit a polished, near-perfect draft that might be slightly late or a good-enough version submitted on time? The project impacts my performance review, but my manager values punctuality."
+    },
+    {
+        "id": 4,
+        "prompt": "I’m studying for an exam. Should I follow a rigid 6-hour daily study plan with breaks, or study in short bursts whenever I feel motivated? I’m easily distracted but worry burnout might hurt retention."
+    },
+    {
+        "id": 5,
+        "prompt": "I want to save money. Should I track every expense in a spreadsheet or set a monthly budget and avoid checking it until the end of the month? I tend to overspend but find micromanaging tedious."
+    },
+    {
+        "id": 6,
+        "prompt": "I need to prepare for a meeting with a client. Is it better to thoroughly research their business and draft talking points days in advance, or wing it using my general knowledge to keep the conversation natural?"
+    },
+    {
+        "id": 7,
+        "prompt": "I’m writing a report. Should I outline every section meticulously before drafting, or start writing freely and reorganize later? I want efficiency but fear the freeform approach might waste time."
+    },
+    {
+        "id": 8,
+        "prompt": "I received an angry email from a colleague. Should I reply immediately to resolve the tension or wait an hour to cool down and craft a careful response? I don’t want to escalate things but also hate delaying replies."
+    },
+    {
+        "id": 9,
+        "prompt": "I’m learning a new skill. Should I follow a structured online course with deadlines or learn through random YouTube tutorials as I go? I enjoy flexibility but worry about gaps in knowledge."
+    },
+    {
+        "id": 10,
+        "prompt": "I’m leading a team project. Should we assign strict roles and deadlines upfront or keep things open for collaborators to choose tasks as they prefer? The team values autonomy but has a history of missed deadlines."
+    }
+]

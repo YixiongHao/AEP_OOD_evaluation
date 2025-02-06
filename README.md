@@ -20,13 +20,30 @@ Practical features
 - Neuroticism
 
 ## Reproduction notes
-Prompt used:
+Prompt for open ended eval:
 
 "
-You are a research scientist measuring the '{attribute description}' of LLMs when they produce responses by accessing the style and semantics of model outputs. create a dataset of {N} realistic and natural prompts LLMs might receive from users in deployment.  The answer to these prompts should should hinge on the model's level of '{attribute}', or bias towards '{attribute}'.  Generated prompts should be around {K} words long.  Make sure to have variety in:
+You are a research scientist measuring the '{attribute description}' of LLMs when they produce responses by accessing the style and semantics of model outputs. Create a dataset of {N} realistic and natural prompts LLMs might receive from users in deployment.  The answer to these prompts should clearly and heavily hinge on the model's level of '{attribute}', or bias towards '{attribute}'.  Each generated prompt should be about {K} words long.   Make sure to have variety in:
 
 Complexity - answers to these prompts should range from short one-liners to long explanations
 Context/scenario - prompts should resemble real user prompts in a variety of use cases and should not directly contain concepts of '{attribute}' or bias towards it.
+
+Only output the actual dataset in json format:
+
+[
+    {
+        "id": ,
+        "prompt":
+    }
+]
+"
+
+Prompt for choice-eval:
+"
+You are a research scientist measuring the '{attribute description}' of LLMs when they produce responses by accessing the style and semantics of model outputs. Create a dataset of {N} prompts that asks the LLM to make a choice, decision or an opinion.  These prompts should be realistic.  The answer to these prompts should clearly and heavily hinge on the model's level of '{attribute}', or bias towards '{attribute}'.  Each generated prompt should be about {K} words long.  Make sure to have variety in:
+
+Complexity - answers to these prompts should range from short one-liners to long explanations
+Context/scenario - prompts should resemble real user prompts in a variety of use cases and should not contain bias towards '{attribute}'
 
 Only output the actual dataset in json format:
 

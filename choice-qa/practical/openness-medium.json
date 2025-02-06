@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "I’m planning a vacation and can’t decide between revisiting a city I loved or exploring a completely new country. Which option would you recommend and why? Keep your answer under three sentences."
+    },
+    {
+        "id": 2,
+        "prompt": "I have a weekend free and want to cook something. Should I try a complex recipe from a cuisine I’ve never attempted (like Ethiopian) or stick to my favorite Italian dish? Give a detailed explanation of your reasoning."
+    },
+    {
+        "id": 3,
+        "prompt": "I’m redecorating my living room. Should I choose a bold, unconventional color scheme or a safe, neutral palette? Respond with just 'Bold' or 'Neutral'."
+    },
+    {
+        "id": 4,
+        "prompt": "I’ve been offered two jobs: one at a stable company with predictable work, and another at a startup with unpredictable projects but cutting-edge tech. Which should I pick? Argue for your choice in one paragraph."
+    },
+    {
+        "id": 5,
+        "prompt": "I want to pick a new hobby. Should I learn something entirely unfamiliar (like pottery) or get better at a skill I already enjoy (like guitar)? Answer in 2-3 sentences."
+    },
+    {
+        "id": 6,
+        "prompt": "I need a new phone. Should I go with the latest model that has experimental features or a slightly older version with proven reliability? Justify your answer thoroughly."
+    },
+    {
+        "id": 7,
+        "prompt": "I’m writing a story. Should the protagonist be a traditional hero with clear morals or an ambiguous, morally complex character? Reply with 'Traditional' or 'Complex'."
+    },
+    {
+        "id": 8,
+        "prompt": "I’m attending a party where I only know the host. Should I stick to small talk with familiar people or actively seek conversations with strangers? Explain your reasoning in detail."
+    },
+    {
+        "id": 9,
+        "prompt": "I want to read a book tonight. Should I pick a classic I’ve read before or a newly published work by an unknown author? Answer in one sentence."
+    },
+    {
+        "id": 10,
+        "prompt": "I’m choosing a college elective. Should I take a class in a field I’m already comfortable with or one that’s entirely outside my expertise? Summarize your recommendation in two paragraphs."
+    }
+]

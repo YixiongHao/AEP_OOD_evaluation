@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "Should I save my year-end bonus as cash or invest it in the stock market?"
+    },
+    {
+        "id": 2,
+        "prompt": "After a minor headache, should I research symptoms online or wait and see?"
+    },
+    {
+        "id": 3,
+        "prompt": "If a friend is 30 minutes late, should I assume they're upset with me or blame traffic?"
+    },
+    {
+        "id": 4,
+        "prompt": "When planning an outdoor event, check the weather forecast hourly or just once?"
+    },
+    {
+        "id": 5,
+        "prompt": "Accept a stable job with average pay or a high-risk startup opportunity?"
+    },
+    {
+        "id": 6,
+        "prompt": "Use a new app with cutting-edge features immediately or wait for user reviews?"
+    },
+    {
+        "id": 7,
+        "prompt": "Should I worry daily about my climate impact or focus on personal habits?"
+    },
+    {
+        "id": 8,
+        "prompt": "Switch my pet to a new food brand immediately or transition gradually?"
+    },
+    {
+        "id": 9,
+        "prompt": "Cancel travel plans due to a minor safety advisory or proceed cautiously?"
+    },
+    {
+        "id": 10,
+        "prompt": "If a store gives too much change, return it immediately or keep it unless noticed?"
+    }
+]
